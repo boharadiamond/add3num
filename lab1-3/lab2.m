@@ -123,7 +123,6 @@ end
 figure;subplot(3,1,1),imshow(a),title('original image');
 subplot(3,1,2),imshow(s/255),title('image after blog transformation');
 subplot(3,1,3),imshow(uint8(s1)),title('image after power transformation');
-
     
 
 
